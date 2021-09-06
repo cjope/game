@@ -8,7 +8,7 @@ function App() {
         
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit P in src/App.js with source set to gh-pages on github
+          Now I should be able to manipulate the App.js only and update the site.
         </p>
         <a
           className="App-link"
