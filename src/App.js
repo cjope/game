@@ -8,7 +8,7 @@ function App() {
         
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I change app paragraph gh-pages settings is main
+          Edit P in src/App.js with source set to gh-pages on github
         </p>
         <a
           className="App-link"
